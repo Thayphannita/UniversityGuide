@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "810035645938",
+    "firebase_url": "https://guide-university.firebaseio.com",
+    "project_id": "guide-university",
+    "storage_bucket": "guide-university.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810035645938:android:c9fb44414f3b3cd8",
+        "android_client_info": {
+          "package_name": "com.example.bona.universityguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810035645938-58a19c7uhtbr95l55d8d1i9l7jkn0obv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkS2_qIIXbLHdUK7t9FnB2bewp2pOJbYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

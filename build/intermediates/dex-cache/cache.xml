@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\d30a8f77aa3627b7a67663656a712c2faca75880\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_3806834dd061d942309cf9a124c1ba16b5d42f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\2d01daed08d5f4d8aae5bc00f48c50308293ab7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_f6e89cfa642df646d38cfabb4551cf34bc819bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\f46b204972b1d69b3c95f5408f03062433be588e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_969603a6a853aff1d5198beea03a55a89803aba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\c1d05bd1e2921f2eca13356508b17ada82f3cfe4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_e5bbfcfb1a4b2d55fae044ff7e9c9be82b2f830c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\37bac6b7259528376626904f180450ea6e65a893\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_3fbf798b2eff73cd1d70c93f68b5d528e1696870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\4f6637a3b893fe5b6ca7d9e5f1c43e38c9854448\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_678f2fc948d3fb942fdabf3ffe6cf9493592a38c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\aa322997b5ebcb170cec9ecc1ab92e02b6b55a0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_6f3943c321c0525c7d39199f8d182407b13d32e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\8117c6cecdb4788f91266695a34b72e83329d580\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_77ca5aa0de440fa90d94ff6724b6a28d5def4b09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\3f704a56651d46007a28bf1e5846afb2dca3358b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_2f918e001485e6f9a54a16379908448572c75e5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b0776a431aab4772cb41920a4d73ed62c126141">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_85818d323ee3611b9f6596173902e939c25986f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\3189f544bad4a05d44e96a90593a92f5ab115875\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_7b41f7fd6978d17bdc1e2230d9c948476054a302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\4d994e55e83a8b4f2933a268da162eaf6c943058\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_d395a2747d42b5e987c0fb1bd361c59d1c9880fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\f38db9704ad36e0883d31bec091c623ed6d4d4ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_9cf178e3ef1f698a09b414d799f29fd01d85e796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\ccfef948a501876c6ecbb3fc992af7e961b9dbf0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_c4d6d93bf6c1f517a1029a008aa902183e4b82ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\c95ff44a1abfd53fa99f327c8d22e65e7f550aec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_55ef21aa3d195320458804372c80b18eea529cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\747f970b8fea09448a09bc7b426bb7d8d4b1c7e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_daece5ec3c68f6db37cca7e390435a94fd50ea16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_f92a7643baf3e35b643cf3a66515a5ebecb5ce48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_509156deaa0bae5085d240b23c05162a774b123c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\8fbe5316656ffa16f72f6ccf55c32efb80957373\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_4ee788f76daaf408eb8cc404ec8c785b8db423b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\junit-4.12_a0d51653dde2c7a2efd9dbc970842a4845407d6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\8887b9387acb6143b826b9302e9a1e8720eb26db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_9db68909e9fb9c3a3f556b1500b3df2c47d6b1b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\83ab49d422a7694415fe6a1f99a657d8d21b3efd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_0c6beb7ff2b0de59a24c04e0560e8892d83897cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_f64fa0c281866aac9221dfccb532cd19ecd38b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\98dc52f5e1513576534bdd43f9cc292810680824\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_3c39dcb3fa6580fa7ae308052ee90548028beb7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\d0aa2516c88b127abcbab26869802c984813b9e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_7980b08aca98511ddfabaaf9e804013a42f22c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_b6d61ed10d7b85c52b1786e1ad1487f036d80363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bona\.android\build-cache\219102f15cc7efce13ec41a2749ea3a12983f483\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="C:\Users\Bona\Desktop\UniversityGuide\app\build\intermediates\pre-dexed\debug\classes_d0e33c3a801f7e2a14d0587c6020eea82e8e3293.jar" />
+    </item>
+
+</items>

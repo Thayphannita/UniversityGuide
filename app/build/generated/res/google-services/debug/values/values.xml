@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">810035645938-58a19c7uhtbr95l55d8d1i9l7jkn0obv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://guide-university.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">810035645938</string>
+    <string name="google_api_key" translatable="false">AIzaSyCkS2_qIIXbLHdUK7t9FnB2bewp2pOJbYg</string>
+    <string name="google_app_id" translatable="false">1:810035645938:android:c9fb44414f3b3cd8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCkS2_qIIXbLHdUK7t9FnB2bewp2pOJbYg</string>
+    <string name="google_storage_bucket" translatable="false">guide-university.appspot.com</string>
+    <string name="project_id" translatable="false">guide-university</string>
+</resources>
